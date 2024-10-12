@@ -2,3 +2,6 @@
 Calculation of electromagnetic parameters of surface-mounted permanent magnet synchronous motors based on Subdomain Model(SD Model)
 To investigate the effect of magnetic saturation on the calculation error of the Subdomain Model by varying the stator inner diameter, permanent magnet thickness and permanent magnet remanence, respectively
 The affected terms include air gap magnetic density, electromagnetic force density, cogging torque, and electromagnetic torque.
+
+有限元仿真软件为ANSYS Maxwell 2023，编程语言为MATLAB 2022a
+The finite element simulation software is ANSYS Maxwell 2023 and the programming language is MATLAB 2022a
