@@ -5,3 +5,7 @@ The affected terms include air gap magnetic density, electromagnetic force densi
 
 有限元仿真软件为ANSYS Maxwell 2023，编程语言为MATLAB 2022a
 The finite element simulation software is ANSYS Maxwell 2023 and the programming language is MATLAB 2022a
+
+建模思路为计及齿尖的精确子域模型法，参考文献为
+[1] Z. Q. Zhu, L. J. Wu and Z. P. Xia, "An Accurate Subdomain Model for Magnetic Field Computation in Slotted Surface-Mounted Permanent-Magnet Machines," in IEEE Transactions on Magnetics, vol. 46, no. 4, pp. 1100-1115, April 2010, doi: 10.1109/TMAG.2009.2038153.
+[2] L. J. Wu, Z. Q. Zhu, D. Staton, M. Popescu and D. Hawkins, "An Improved Subdomain Model for Predicting Magnetic Field of Surface-Mounted Permanent Magnet Machines Accounting for Tooth-Tips," in IEEE Transactions on Magnetics, vol. 47, no. 6, pp. 1693-1704, June 2011, doi: 10.1109/TMAG.2011.2116031.
